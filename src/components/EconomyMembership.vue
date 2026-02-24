@@ -16,7 +16,7 @@ function toogle() {
                     ECONOMY MEMBERSHIP
                 </h3>
             </div>
-            <div class="bg-zinc-700 px-5 py-4 rounded-b-xl">
+            <div class="bg-zinc-700 text-white px-5 py-4 rounded-b-xl">
                 <p
                     :class="
                         isOpen
